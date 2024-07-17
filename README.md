@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **my skill**
 
-- 🌱 I’m currently learning **next JS**
-
-- 💬 Ask me about **NodeJS, ExpressJS, Javascript**
+- 💬 Ask me about **NodeJS, ExpressJS, Javascript, Docker**
 
 - 📫 How to reach me **rabindrameher116@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rabindra789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rabindra789" height="30" width="40" /></a>
+
 <a href="https://instagram.com/rabindra__18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabindra__18" height="30" width="40" /></a>
 </p>
 
