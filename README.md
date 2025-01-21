@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rabindra Kumar Meher</h1>
-<h3 align="center">A passionate fullstack developer from India. Currently in 2nd year computer science engineering</h3>
+<h3 align="center">A passionate Backend developer from India. Currently in 2nd year computer science engineering</h3>
 
 - 🔭 I’m currently working on **my skill**
 
