@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rabindra Kumar Meher</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on [CodeSync](https://github.com/rabindra789/CodeSync)
+- 🔭 I’m currently working on [Skill Quest Learning](https://www.linkedin.com/company/skillquest-learnings/)
 
-- 🌱 I’m currently learning **NextJS, Rust**
+- 🌱 I’m currently learning **Networking, CI/CD Pipeline**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabindra789/](https://github.com/rabindra789/)
 
 - 📫 How to reach me **rabindrameher116@gmail.com**
 
-- ⚡ Fun fact **i write code!**
+- ⚡ Hobby **Boxing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
