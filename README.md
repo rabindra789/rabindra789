@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Skill Quest Learning](https://www.linkedin.com/company/skillquest-learnings/)
 
-- 🌱 I’m currently learning **Networking, CI/CD Pipeline**
+- 🌱 I’m currently learning **Networking, Pandas and adv. Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rabindra789](https://github.com/rabindra789)
 
 - 📫 How to reach me **rabindrameher116@gmail.com**
 
-- ⚡ Hobby **Boxing**
+- ⚡ Hobby **Boxing, Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
