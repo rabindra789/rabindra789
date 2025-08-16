@@ -61,8 +61,8 @@ Here are some of my key projects:
   A personal portfolio application to showcase projects and skills, with JWT authentication, markdown support for descriptions, and a contact form with email notifications.  
   **Tech Stack**: Node.js, Express, EJS, MongoDB, JWT, Nodemailer  
 
-- **Security Scan Tool (Learning Project)**  
-  An automated vulnerability scanning script using Python and Nmap for local networks. (Private repo; contact me for details)
+- **[Security Scan Tool (Learning Project)](https://github.com/rabindra789/security-scanner)**  
+  An automated vulnerability scanning script using Python and Nmap for local networks.
 
 ### Education
 **Bachelor's in Technology**  
