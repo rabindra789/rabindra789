@@ -11,9 +11,6 @@
 
 - 👨‍💻 Check out my projects at [rabindra789](https://github.com/rabindra789)
 
-- 👨‍💻 Codeberg: [rabindra18](https://codeberg.org/rabindra18)
-    - Always open to collaborating on security or backend projects—feel free to reach out!
-
 - 💬 Always open to collaborating on backend, DevOps, or security projects
 
 - 📫 Reach me at **rabindrameher116@gmail.com**
